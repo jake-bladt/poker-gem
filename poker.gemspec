@@ -4,8 +4,8 @@ Gem::Specification.new do |s|
   s.summary     = "A gem for handling basic poker concepts."
   s.description = "A gem for handling basic poker concepts."
   s.authors     = ["Jake Bladt"]
-  s.email       = "jake@jakebladt."
-  s.homepage    = "http://www.pokernerd.net"  
+  s.email       = "jake@jakebladt.com"
+  s.homepage    = "http://www.jakebladt.codes"  
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
   s.require_paths = ["lib"]
